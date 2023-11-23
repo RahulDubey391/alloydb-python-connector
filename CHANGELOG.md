@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.2.0](https://github.com/GoogleCloudPlatform/alloydb-python-connector/compare/v0.1.6...v0.2.0) (2023-11-23)
+
+
+### Features
+
+* introduce compatibility with native namespace packages ([#165](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/165)) ([8b0e2ae](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/8b0e2ae022afb754fd69e73f0d606dd192b2dfa8))
+
+
+### Dependencies
+
+* Update actions/github-script action to v7.0.1 ([#162](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/162)) ([9ecd247](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/9ecd247ee8c561b6fb783f7053f521a21ab7aec8))
+* Update dependency aiohttp to v3.9.0 ([#163](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/163)) ([e0ba316](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/e0ba3167b80f6cb636c20ec4e523358618022c17))
+* Update dependency google-auth to v2.23.4 ([#87](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/87)) ([0a7cdb3](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/0a7cdb374a3a33f903b7f39ae4795d7d4f7c3b25))
+* Update github/codeql-action action to v2.22.7 ([#158](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/158)) ([2ec5a2d](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/2ec5a2de3345e5ca6b141944e604f0e3f21a70f7))
+* Update github/codeql-action action to v2.22.8 ([#167](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/167)) ([50c9ff5](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/50c9ff5f0b47e5a6631170b90c0e67bd4b24ea4b))
+* Update google-github-actions/auth action to v1.2.0 ([#164](https://github.com/GoogleCloudPlatform/alloydb-python-connector/issues/164)) ([8d5e492](https://github.com/GoogleCloudPlatform/alloydb-python-connector/commit/8d5e492bf901b305c585c74a17185cf4f519174a))
+
 ## [0.1.6](https://github.com/GoogleCloudPlatform/alloydb-python-connector/compare/v0.1.5...v0.1.6) (2023-11-14)
 
 
